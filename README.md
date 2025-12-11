@@ -3,7 +3,7 @@
 <h1 align="center" style="color: #1E90FF; font-size: 3em;">Bem-vindo ao meu perfil no GitHub! 🌐</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+de+Sistema;Amante+de+tecnologia;Apaixonado+por+inovação"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=435&lines=Rian+Prates;Desenvolvedor+de+Sistema;Amante+de+tecnologia;Apaixonado+por+inovação"/>
 </p>
 
 ---
@@ -11,6 +11,8 @@
 ## 🧑‍💻 Sobre Mim
 
 🎓 **Formação:** Desenvolvimento e Análise de Sistema pelo Senai "Morvan Figueiredo"  
+👤 **Nome:** Rian Prates  
+🎂 **Idade:** 18 anos  
 🌎 **Localização:** São Paulo, Brasil  
 🗣️ **Idiomas:** Português, Espanhol (Intermediário), Inglês (Básico)
 
@@ -64,9 +66,9 @@
 ## 📊 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=blueberry&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SeuUsuario&theme=blueberry" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=blueberry" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RianPrates&show_icons=true&theme=blueberry&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RianPrates&theme=blueberry" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RianPrates&layout=compact&theme=blueberry" />
 </div>
 
 ---
@@ -79,5 +81,8 @@
   </a>
   <a href="https://linkedin.com/in/seuLinkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="SEU_LINK_AQUI">
+    <img src="https://img.shields.io/badge/Credly-FF6D00?style=for-the-badge&logo=credly&logoColor=white"/>
   </a>
 </p>
