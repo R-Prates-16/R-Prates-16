@@ -66,9 +66,16 @@
 ## 📊 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RianPrates&show_icons=true&theme=blueberry&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RianPrates&theme=blueberry" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RianPrates&layout=compact&theme=blueberry" />
+
+  <!-- GitHub Stats -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RianPrates&show_icons=true&theme=blueberry"/>
+
+  <!-- Streak Stats -->
+  <img height="180em" src="https://streak-stats.demolab.com?user=RianPrates&theme=blueberry"/>
+
+  <!-- Top Languages -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RianPrates&layout=compact&theme=blueberry"/>
+
 </div>
 
 ---
