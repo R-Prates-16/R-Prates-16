@@ -6,10 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+de+Sistema;Amante+de+tecnologia;Apaixonado+por+inovação"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SeuUsuario&label=Profile%20views&color=1E90FF&style=flat" alt="Contador de Visualizações"/>
-</p>
-
 ---
 
 ## 🧑‍💻 Sobre Mim
@@ -45,14 +41,6 @@
 
 ---
 
-## 📈 Atividade Recente
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SeuUsuario&theme=blueberry&area=true&hide_border=true" />
-</p>
-
----
-
 ## 🌐 Como Me Encontrar
 
 📫 Email: rianoliveira8945@gmail.com  
@@ -66,4 +54,5 @@
 - 🔥 Certificado em **Desenvolvimento Web** pela [Plataforma]  
 - 🏅 Reconhecimento como **Desenvolvedor Destaque** no [Evento]  
 - 📜 Contribuições aceitas em projetos Open Source  
+
 
