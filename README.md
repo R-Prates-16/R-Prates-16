@@ -67,16 +67,25 @@
 
 <div align="center">
 
-  <!-- GitHub Stats -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RianPrates&show_icons=true&theme=blueberry"/>
+  <!-- Badges úteis (seguidores / estrelas públicas) -->
+  <p>
+    <img src="https://img.shields.io/github/followers/RianPrates?label=Seguidores&style=for-the-badge" alt="Followers"/>
+    <img src="https://img.shields.io/github/stars/RianPrates?label=Estrelas&style=for-the-badge" alt="Stars"/>
+    <img src="https://img.shields.io/badge/Status-GitHub%20OK-1E90FF?style=for-the-badge" alt="Status"/>
+  </p>
 
-  <!-- Streak Stats -->
-  <img height="180em" src="https://streak-stats.demolab.com?user=RianPrates&theme=blueberry"/>
+  <!-- Contribution graph (SVG gerado por ghchart.rshah.org) -->
+  <p>
+    <img src="https://ghchart.rshah.org/RianPrates" alt="Contribution chart" />
+  </p>
 
-  <!-- Top Languages -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RianPrates&layout=compact&theme=blueberry"/>
+  <!-- Top languages (fallback: compact image) -->
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RianPrates&layout=compact&theme=blueberry" alt="Top Languages" />
+  </p>
 
 </div>
+
 
 ---
 
