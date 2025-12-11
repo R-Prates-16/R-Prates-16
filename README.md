@@ -29,9 +29,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-044F88?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+
 </p>
 
 ### ⚛️ **Frameworks e Bibliotecas**
@@ -63,28 +61,26 @@
 
 ---
 
-## 📊 Estatísticas
+## ⭐ Projetos em Destaque
 
-<div align="center">
 
-  <!-- Badges úteis (seguidores / estrelas públicas) -->
-  <p>
-    <img src="https://img.shields.io/github/followers/RianPrates?label=Seguidores&style=for-the-badge" alt="Followers"/>
-    <img src="https://img.shields.io/github/stars/RianPrates?label=Estrelas&style=for-the-badge" alt="Stars"/>
-    <img src="https://img.shields.io/badge/Status-GitHub%20OK-1E90FF?style=for-the-badge" alt="Status"/>
-  </p>
+Aqui estão alguns dos meus principais projetos, cada um mostrando uma parte importante da minha evolução como desenvolvedor:
 
-  <!-- Contribution graph (SVG gerado por ghchart.rshah.org) -->
-  <p>
-    <img src="https://ghchart.rshah.org/RianPrates" alt="Contribution chart" />
-  </p>
 
-  <!-- Top languages (fallback: compact image) -->
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RianPrates&layout=compact&theme=blueberry" alt="Top Languages" />
-  </p>
+### 🔹 **LaBelleBijou – E-Commerce Completo**
+Desenvolvido com **Django** + **MongoDB**. É totalmente **responsivo** e conta com sistema de cadastro, login, carrinho, painel administrativo e interface moderna.
 
-</div>
+
+### 🔹 **Jogo do Guerreiro (Pygame)**
+Um game simples em Python, onde você controla um guerreiro com movimentos, colisões e mecânicas básicas criadas do zero.
+
+
+### 🔹 **SuperBook – Rede Social de Heróis e Vilões**
+Projeto que simula uma rede social básica, com criação de perfis, postagens e interações simples entre usuários.
+
+
+### 🔹 **Sistema Financeiro (Flet)**
+Aplicação para controle financeiro, com entradas, saídas, cálculos automáticos e interface intuitiva feita em **Flet**.
 
 
 ---
