@@ -88,13 +88,13 @@ Aplicação para controle financeiro, com entradas, saídas, cálculos automáti
 ## 🌐 Conecte-se Comigo
 
 <p>
-  <a href="https://instagram.com/seuInstargram">
+  <a href="https://www.instagram.com/r.prates02/">
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/seuLinkedin">
+  <a href="https://www.linkedin.com/in/rian-prates-3184722b1/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="SEU_LINK_AQUI">
+  <a href="https://www.credly.com/users/rian-prates-da-silva-oliveira">
     <img src="https://img.shields.io/badge/Credly-FF6D00?style=for-the-badge&logo=credly&logoColor=white"/>
   </a>
 </p>
